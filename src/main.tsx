@@ -18,7 +18,7 @@ import { SemanticResourceAttributes } from '@opentelemetry/semantic-conventions'
 const collectorOptions = {
   url: 'https://otlp.nr-data.net:443',
   headers: {
-    'api-key': 'NRAK-9DZ50XGAZDTYPKKC4H8IS29TN20'
+    'api-key': 'XXX'
   }
 };
 
